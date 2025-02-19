@@ -48,9 +48,3 @@ __1.0.0 Релиз проекта__
 # :soon: Планы
 
 * Исправление ошибок
-
-# :telephone_receiver: Связаться
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0t0hlebushek)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotohlebushek@mail.ru)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/628531217817665537)
